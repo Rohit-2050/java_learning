@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77dfb0c8-58a7-441e-9a01-2a8496e3e8ff" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ux4S3OmRw4aN123dIxyUCubJOV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AL_sort.executor": "Run",
+    "Application.AL_swap.executor": "Run",
+    "Application.ArrayListss.executor": "Run",
+    "Application.Largestinarr.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.arraypairs.executor": "Run",
+    "Application.arrays.executor": "Run",
+    "Application.binarySearch.executor": "Run",
+    "Application.bubbleSort.executor": "Run",
+    "Application.counting_sort.executor": "Run",
+    "Application.diagonal.executor": "Run",
+    "Application.helloworld.executor": "Run",
+    "Application.insertionSort.executor": "Run",
+    "Application.kadanes.executor": "Run",
+    "Application.linearSearch.executor": "Run",
+    "Application.newprime.executor": "Run",
+    "Application.pratice2d.executor": "Run",
+    "Application.prefixSum.executor": "Run",
+    "Application.reversearray.executor": "Run",
+    "Application.selectionSort.executor": "Run",
+    "Application.sortedsearch.executor": "Run",
+    "Application.spiral_matrix.executor": "Run",
+    "Application.stocks.executor": "Run",
+    "Application.subarrays.executor": "Run",
+    "Application.sum.executor": "Run",
+    "Application.trappedWater.executor": "Run",
+    "Application.two_2dArrays.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Rohit/OneDrive/Desktop",
+    "onboarding.tips.debug.path": "C:/Users/Rohit/OneDrive/Desktop/DSA/DSA/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77dfb0c8-58a7-441e-9a01-2a8496e3e8ff" name="Changes" comment="" />
+      <created>1743176896704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743176896704</updated>
+    </task>
+    <servers />
+  </component>
+</project>
